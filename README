@@ -1,0 +1,9 @@
+This project is an Obex Push server that runs on Android devices. The main
+difference with outher OPP servers is that this one incorporates the business
+card GET feature.
+
+AIRtaxi-server includes the example client sourcecode
+AIRtaxi-android includes all the source code that runs on the Android device
+
+NOTE: Some 3rd parties libraries are included in this repository, they're
+covered by they're respective licenses.
